@@ -16,7 +16,7 @@ The system allows the addition of new employees with details such as Name, ID, P
 Validation rules:
 
 Name: Accepts only alphabets (A-Z, a-z).
-Phone Number: Accepts only numbers and must be exactly 10 digits (Indian phone number format).
+Phone Number: Accepts only numbers and must be exactly 10 digits (Indian phone number format) and also Natural Numbers.
 
 Removing Employees:
 
